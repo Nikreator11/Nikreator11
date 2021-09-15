@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Nikreator11...
+- 👀 I’m interested in making apps and games with code...
+- 🌱 I’m currently learning to code and exploring new proggraming languages...
+
+
+<!---
+Nikreator11/Nikreator11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
